@@ -8,7 +8,7 @@
   - Check solution into GitHub 
 
 
-This solution uses map to simulation database storage for customers and transactions with a dataset
+This solution uses maps to simulate database storage for customers and transactions with a dataset
 defined in the respective repository constructors.
 
 <br>
