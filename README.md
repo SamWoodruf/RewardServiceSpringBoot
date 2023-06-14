@@ -17,3 +17,16 @@ Import project into IDE as a Maven project and run the main application class
 
 Usage is as follows:
 `GET localhost:8080/rewards/{customer_id}`
+Sample Response Body:
+```
+{
+    "rewardsMonthMap": {
+        "Apr": 50,
+        "Jun": 30,
+        "May": 10,
+        "Mar": 0
+    },
+    "customerId": 10,
+    "rewardsTotal": 90
+}
+```
